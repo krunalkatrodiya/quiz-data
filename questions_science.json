@@ -1,0 +1,14 @@
+[
+  {
+    "question": "H2O is?",
+    "options": ["Oxygen", "Hydrogen", "Water", "Carbon"],
+    "answer": "Water",
+    "explanation": "H2O is water"
+  },
+  {
+    "question": "Sun is a?",
+    "options": ["Planet", "Star", "Moon", "Asteroid"],
+    "answer": "Star",
+    "explanation": "Sun is a star"
+  }
+]
